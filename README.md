@@ -11,7 +11,7 @@ Note: Negara ASIA di dalam data tersebut belum termasuk negara 'Azerbaijan', 'Bh
 - Finlandia berada di urutan pertama untuk negara dengan skor "Happiness Index" tertinggi di seluruh dunia dengan skor 7.821
 - Finlandia dan Israel berada di rentang skor yang tidak terlalu jauh dengan jarak perbedaan skor sebesar 0.457
 - Indonesia berada di peringkat ke-87 dalam konteks "Happiness Index" di seluruh dunia. Indonesia berada di rentang peringkat dan skor yang cukup jauh dengan Finlandia yaitu dengan perbedaan skor sebesar 2.581
-<img src="https://github.com/ajenggtrd/Data-Mining/blob/main/download%20(2).png">
+<img src="https://github.com/ajenggtrd/Data-Mining/blob/main/download%20(6).png">
 
 ## Comparison of happiness factors with the first rank of "Happiness Index": Finlandia vs. Indonesia
 - Indonesia unggul di faktor "Generosity", namun kalah di keenam faktor lainnya. Artinya, Indonesia masih unggul dalam hal seberapa sering orang memberikan atau membantu orang lain, yang dianggap sebagai indikator penting dari kesejahteraan sosial dan kebahagiaan
