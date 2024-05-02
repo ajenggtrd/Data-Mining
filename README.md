@@ -14,5 +14,6 @@ Note: Negara ASIA di dalam data tersebut belum termasuk negara 'Azerbaijan', 'Bh
 <img src="https://github.com/ajenggtrd/Data-Mining/blob/main/download%20(2).png">
 
 ## Comparison of happiness factors with the first rank of "Happiness Index": Finlandia vs. Indonesia
-- Indonesia unggul di faktor "Generosity", namun kalah di keenam faktor lainnya.
-- Indonesia kalah jauh dalam faktor "Dystopia"
+- Indonesia unggul di faktor "Generosity", namun kalah di keenam faktor lainnya. Artinya, Indonesia masih unggul dalam hal seberapa sering orang memberikan atau membantu orang lain, yang dianggap sebagai indikator penting dari kesejahteraan sosial dan kebahagiaan
+- Indonesia kalah jauh dalam faktor "Dystopia". Artinya Indonesia masih rawan atau sering terjadi situasi yang dianggap sebagai kondisi yang sangat tidak menguntungkan atau bahkan mengerikan
+<img src="https://github.com/ajenggtrd/Data-Mining/blob/main/download%20(3).png">
