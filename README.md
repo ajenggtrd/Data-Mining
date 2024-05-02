@@ -5,7 +5,7 @@
 - Afghanistan berada di urutan terakhir untuk negara dengan skor "Happiness Index" terendah di antara negara ASIA dengan skor 2.404
 - Indonesia berada di peringkat ke-21 dalam konteks "Happiness Index" diantara negara Asia dengan skor 5.24
 Note: Negara ASIA di dalam data tersebut belum termasuk negara 'Azerbaijan', 'Bhutan', 'Brunei', 'Maldives', 'North Korea', 'Oman', 'Palestine', 'Qatar', 'Rusia', 'Syria', 'Timor Leste', 'Turkmenistan', dan 'Yemen'.
-<img src="https://github.com/ajenggtrd/Data-Mining/blob/main/download.png">
+<img src="https://github.com/ajenggtrd/Data-Mining/blob/main/download%20(7).png">
 
 ## Indonesia's happiness score among the world
 - Finlandia berada di urutan pertama untuk negara dengan skor "Happiness Index" tertinggi di seluruh dunia dengan skor 7.821
