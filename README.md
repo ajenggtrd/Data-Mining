@@ -28,3 +28,14 @@ Berhubung Indonesia baru saja mengikuti Piala ASIA U-23 AFC dan lolos sampai bab
 ## Comparison of Happiness Factors: Uzbekistan vs. Indonesia
 - Indonesia unggul di faktor "Generosity", namun kalah di keenam faktor lainnya. Artinya, Indonesia masih unggul dalam hal seberapa sering orang memberikan atau membantu orang lain, yang dianggap sebagai indikator penting dari kesejahteraan sosial dan kebahagiaan
 - Indonesia kalah jauh dalam faktor "Dystopia". Artinya Indonesia masih rawan atau sering terjadi situasi yang dianggap sebagai kondisi yang sangat tidak menguntungkan atau bahkan mengerikan
+<img src="https://github.com/ajenggtrd/Data-Mining/blob/main/download%20(9).png">
+<"img src="https://github.com/ajenggtrd/Data-Mining/blob/main/download%20(10).png">
+
+## Comparison of Happiness Factors: Iraq vs. Indonesia
+- Indonesia unggul di faktor "Generosity", namun kalah di keenam faktor lainnya. Artinya, Indonesia masih unggul dalam hal seberapa sering orang memberikan atau membantu orang lain, yang dianggap sebagai indikator penting dari kesejahteraan sosial dan kebahagiaan
+- Indonesia kalah jauh dalam faktor "Dystopia". Artinya Indonesia masih rawan atau sering terjadi situasi yang dianggap sebagai kondisi yang sangat tidak menguntungkan atau bahkan mengerikan
+<img src="https://github.com/ajenggtrd/Data-Mining/blob/main/download%20(11).png">
+<img src="https://github.com/ajenggtrd/Data-Mining/blob/main/download%20(12).png"?
+
+## KESIMPULAN
+Indonesia memang memiliki penduduk yang kebanyakan ramah dan sering membantu orang lain. Namun ternyata hal itu saja tidak cukup, terbukti dengan data-data diatas dimana Indonesia masih berada dalam list salah satu negara yang tidak aman. Ramah bukan berarti tidak bisa melakukan kejahatan. Namun perlu diperhatikan juga bahwa hal-hal tersebut terjadi karena banyak faktor, salah satu diantaranya adalah faktor kemiskinan struktural sehingga akses pendidikan, makanan, pekerjaan, kenyamanan,  dan lain-lain dirasa tidak cukup sehingga situasi tidak aman itu terjadi.
