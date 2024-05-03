@@ -23,3 +23,8 @@ Note: Negara ASIA di dalam data tersebut belum termasuk negara 'Azerbaijan', 'Bh
 Berhubung Indonesia baru saja mengikuti Piala ASIA U-23 AFC dan lolos sampai babak semifinal, akan dilakukan analisis dengan Uzbekistan dan Iraq yang merupakan negara yang menjadi lawan main Indonesia di babak semifinal.
 - Terlihat bahwa jarak 'Happiness Index' antara Uzbekistan dan Indonesia cukup jauh dengan Uzbekistan lebih unggul, yaitu dengan perbedaan 13 peringkat di negara ASIA, dan perbedaan 34 peringkat dalam konteks seluruh dunia.
 - Terlihat bahwa jarak 'Happiness Index' antara Iraq dan Indonesia tidak cukup jauh dengan Indonesia lebih unggul, yaitu dengan perbedaan 3 peringkat di negara ASIA, dan perbedaan 11 peringkat dalam konteks seluruh dunia.
+<img src="https://github.com/ajenggtrd/Data-Mining/blob/main/download%20(8).png">
+
+## Comparison of Happiness Factors: Uzbekistan vs. Indonesia
+- Indonesia unggul di faktor "Generosity", namun kalah di keenam faktor lainnya. Artinya, Indonesia masih unggul dalam hal seberapa sering orang memberikan atau membantu orang lain, yang dianggap sebagai indikator penting dari kesejahteraan sosial dan kebahagiaan
+- Indonesia kalah jauh dalam faktor "Dystopia". Artinya Indonesia masih rawan atau sering terjadi situasi yang dianggap sebagai kondisi yang sangat tidak menguntungkan atau bahkan mengerikan
